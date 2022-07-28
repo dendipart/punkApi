@@ -1,12 +1,11 @@
 {
   "name": "testpunkapi",
   "version": "1.0.0",
-  "description": "test_vicuesoft",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next export && touch out/.nojekyll"
+    "export": "next export"
   },
   "keywords": [],
   "author": "dendipart@gmail.com",
